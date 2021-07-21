@@ -2,6 +2,7 @@ Vladyslava Arovina
 ==============
 vlarovina@gmail.com  
 [Link to LinkedIn](https://www.linkedin.com/in/vlady-aro/)  
+[Link to Portfolio](http://devflorum.com/)  
 1 (206) 790-1143  
 Bellevue, WA 98007
 -------------------     ----------------------------
@@ -47,7 +48,7 @@ Degree NameBachelor's degreeField Of StudyBachelor's degree in German and Englis
 #### Certifications
 -------------------     ----------------------------
 * The Complete Junior to Senior Web Developer Roadmap (2021), Mar 2021 [Certificate](https://www.udemy.com/certificate/UC-55f64840-28f6-41c4-8a32-4de48eadb22a/)
-* Adobe Illustrator CC – Advanced Training Course,  Jan 2021, [Certificate]((https://www.udemy.com/certificate/UC-1e492859-4281-4781-853d-897ce8436e58/)
+* Adobe Illustrator CC – Advanced Training Course,  Jan 2021, [Certificate](https://www.udemy.com/certificate/UC-1e492859-4281-4781-853d-897ce8436e58/)
 * Logo Design Mastery In Adobe Illustrator, Jan 2021, [Certificate](https://www.udemy.com/certificate/UC-0295501e-044d-4f1f-8a9b-b0e6e7ed68d5/)
 * The React Developer Course with Hooks, Context API and Redux, May 2020, [Certificate](https://www.udemy.com/certificate/UC-052ce335-342a-4ec5-8b0c-9e136ee4ad08/)
 * The Modern GraphQL Bootcamp (with Node.js and Apollo), Apr 2020, [Certificate](https://www.udemy.com/certificate/UC-2e2d42e6-ca08-4ab6-bd18-22f153af401a/)
